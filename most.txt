@@ -1,0 +1,10 @@
+
+ Happy : 5
+ Sad : 5
+ Angry : 2
+ Disgust : 0
+ Fear : 0
+ Neutral : 2
+ Surprise : 2
+ 
+ Most Emotion : Happy
